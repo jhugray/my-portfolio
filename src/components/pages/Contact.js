@@ -19,7 +19,7 @@ function Contact() {
         <a href= "mailto:jess.ugray@gmail.com"> jess.ugray@gmail.com</a>
       </h4>
       <h4> Github:
-        <a href="github.com/jhugray"> github.com/jhugray</a>
+        <a href="www.github.com/jhugray"> github.com/jhugray</a>
       </h4>
       <h4> Linkedin:
         <a href="https://www.linkedin.com/in/jess-hause-ugray/"> linkedin.com/in/jess-hause-ugray</a>
